@@ -82,7 +82,7 @@ BouncyBirdNative/
 - React Navigation
 - Google AdMob
 - Expo Audio (para audio)
-- React Native Game Engine
+
 
 ## Licencia
 
